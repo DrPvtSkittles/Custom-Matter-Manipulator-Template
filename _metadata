@@ -1,0 +1,12 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "[b]Custom Matter Manipulator Template[/b]\n\nTired of waiting around for a modder to make your custom MM colours? This template is designed to make doing your \nown MMs as painless as possible.\n\nThis template features:\n\n*A custom white MM already set up and ready to go.\n*A PSD with all the parts of the MM images split up into their different parts. (body, bits, black outline, bulb \nand base)\n*For people wanting to make their own custom shaped MMs, an empty handed base image is included.\n*PSD features several already made palettes for both body and bits.\n*PNGs included of the different parts with pink corner indicators.\n*Base images in the PSD are named the same as the files in images in the mod.\n*Images are presented in the mod in the order you will find them in the folders.\n\nOnce you have coloured your images to the way you wish, simply merge them together and copy each and paste them \nover the top of the white MMs in the mod.\n\nPhotopea (https://www.photopea.com/) can open psd files.\n\nIt will be required to unpak this mod in order to edit its contents.\n\nI prefer to use PAKit. (https://pakit.ibraheemrodrigues.com/)\n\nThis mod can be found at SteamLibrary\\steamapps\\workshop\\content\\211820\\NUMBER\n\nI encourage you to upload your work. No credit required. Just don't upload the template PSD and image pack :P\n\nRemember to edit the metadata file with your information.\n\nIf you have any suggestions, comments or critiques I would love to hear from you.\n\nSteam Profile\nhttp://steamcommunity.com/id/sx-skittles/\n\nChucklefish Games Profile\nhttp://community.playstarbound.com/index.php?members/drpvtskittles.96422/\n\nNexusmods Profile\nhttp://www.nexusmods.com/starbound/users/6177151/?",
+  "friendlyName" : "Custom Matter Manipulator Template",
+  "link" : "",
+  "name" : "Custom Matter Manipulator Template",
+  "path" : ".",
+  "priority" : 5,
+  "steamContentId" : "",
+  "tags" : "In-Game Tools",
+  "version" : "0.1.1"
+}
